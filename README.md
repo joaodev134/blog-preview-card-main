@@ -6,7 +6,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 Users should be able to:
 
-- See hover on "HTML & CSS foundations"
+- See hover and focus states for all interactive elements on the page
 
 ### Acess the page
 
