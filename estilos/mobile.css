@@ -94,7 +94,8 @@
     }
 
     div.attribution {
-        font-size: 15px; text-align: center;
+        font-size: 15px;
+        text-align: center;
     }
  
     div.attribution > a {
